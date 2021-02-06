@@ -1,5 +1,7 @@
 package main
 
+//C was imported and functions exported for easy embedding into c#
+
 import (
 	"C"
 	"fmt"
